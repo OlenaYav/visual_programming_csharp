@@ -1,0 +1,10 @@
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\obj\Debug\lab6_yavorska.csprojAssemblyReference.cache
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\obj\Debug\lab6_yavorska.Form1.resources
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\obj\Debug\lab6_yavorska.Properties.Resources.resources
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\obj\Debug\lab6_yavorska.csproj.GenerateResource.cache
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\bin\Debug\lab6_yavorska.exe.config
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\bin\Debug\lab6_yavorska.exe
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\bin\Debug\lab6_yavorska.pdb
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\obj\Debug\lab6_yavorska.exe
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\obj\Debug\lab6_yavorska.pdb
+C:\Users\Olena\source\repos\lab6_yavorska\lab6_yavorska\bin\Debug\goods_1.xml

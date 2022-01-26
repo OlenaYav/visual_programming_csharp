@@ -1,0 +1,13 @@
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\bin\Debug\lab7_yavorska.exe.config
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\bin\Debug\lab7_yavorska.exe
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\bin\Debug\lab7_yavorska.pdb
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.csprojAssemblyReference.cache
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.Form1.resources
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.Properties.Resources.resources
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.csproj.GenerateResource.cache
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.exe
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.pdb
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\bin\Debug\Fizzler.dll
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\bin\Debug\Svg.dll
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\bin\Debug\Svg.xml
+C:\Users\Olena\source\repos\lab7_yavorska\lab7_yavorska\obj\Debug\lab7_yavorska.csproj.CopyComplete

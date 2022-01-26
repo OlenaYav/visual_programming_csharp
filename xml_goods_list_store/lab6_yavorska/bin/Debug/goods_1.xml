@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE shop [
+  <!ELEMENT shop (goods+)>
+  <!ELEMENT goods (category,name,ID,price,about)>
+  <!ATTLIST goods id CDATA #REQUIRED>
+  <!ELEMENT category (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT ID (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ELEMENT about (#PCDATA)>
+]>
+<shop>
+  <goods id="0">
+    <category> dishes</category>
+    <name>Plate Dishes TM</name>
+    <ID>1SLJGL467</ID>
+    <price>220</price>
+    <about>porcelain plate</about>
+  </goods>
+  <goods id="1">
+    <category>Clothes</category>
+    <name>sweater Zara </name>
+    <ID>4435JZFVGKNH</ID>
+    <price>980</price>
+    <about>womans sweater 98 persent cotton</about>
+  </goods>
+  <goods id="2">
+    <category>Electronics</category>
+    <name>Xiaomi Redmi 8</name>
+    <ID>48Y6FDKJBN84</ID>
+    <price>9999</price>
+    <about>Chinese flagman with 7.6 inch diagonal </about>
+  </goods>
+</shop>

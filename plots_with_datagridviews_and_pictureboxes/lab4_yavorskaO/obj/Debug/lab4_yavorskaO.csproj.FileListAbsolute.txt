@@ -1,0 +1,9 @@
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\bin\Debug\lab4_yavorskaO.exe.config
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\bin\Debug\lab4_yavorskaO.exe
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\bin\Debug\lab4_yavorskaO.pdb
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\obj\Debug\lab4_yavorskaO.csprojAssemblyReference.cache
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\obj\Debug\lab4_yavorskaO.Form1.resources
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\obj\Debug\lab4_yavorskaO.Properties.Resources.resources
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\obj\Debug\lab4_yavorskaO.csproj.GenerateResource.cache
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\obj\Debug\lab4_yavorskaO.exe
+C:\Users\Olena\source\repos\lab4_yavorskaO\lab4_yavorskaO\obj\Debug\lab4_yavorskaO.pdb
