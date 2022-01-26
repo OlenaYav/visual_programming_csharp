@@ -7,3 +7,13 @@ C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version
 C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.GenerateResource.cache
 C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.exe
 C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.pdb
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe.config
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.pdb
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csprojAssemblyReference.cache
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Form1.resources
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Properties.Resources.resources
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.GenerateResource.cache
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.CoreCompileInputs.cache
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.exe
+D:\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\VISUAL_YAVORSKA\zdani_labu_variant7_VISUAL\new\calculator\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.pdb
